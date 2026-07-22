@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Arts",
+    "slug": "arts",
+    "description": "Faculty of Arts - Including History, Political Science, Economics, and more",
+    "icon": "📚",
+    "paperCount": 45
+  },
+  {
+    "id": 2,
+    "name": "Science",
+    "slug": "science",
+    "description": "Faculty of Science - Including Physics, Chemistry, and Biology",
+    "icon": "🔬",
+    "paperCount": 67
+  },
+  {
+    "id": 3,
+    "name": "Commerce",
+    "slug": "commerce",
+    "description": "Faculty of Commerce - Including Accounting and Business Studies",
+    "icon": "💼",
+    "paperCount": 38
+  },
+  {
+    "id": 4,
+    "name": "Mathematics",
+    "slug": "mathematics",
+    "description": "Department of Mathematics",
+    "icon": "🧮",
+    "paperCount": 52
+  },
+  {
+    "id": 5,
+    "name": "Computer Science",
+    "slug": "computer-science",
+    "description": "Department of Computer Science and IT",
+    "icon": "💻",
+    "paperCount": 89
+  },
+  {
+    "id": 6,
+    "name": "Physics",
+    "slug": "physics",
+    "description": "Department of Physics",
+    "icon": "⚛️",
+    "paperCount": 41
+  },
+  {
+    "id": 7,
+    "name": "Chemistry",
+    "slug": "chemistry",
+    "description": "Department of Chemistry",
+    "icon": "🧪",
+    "paperCount": 38
+  },
+  {
+    "id": 8,
+    "name": "Botany",
+    "slug": "botany",
+    "description": "Department of Botany",
+    "icon": "🌿",
+    "paperCount": 29
+  },
+  {
+    "id": 9,
+    "name": "Zoology",
+    "slug": "zoology",
+    "description": "Department of Zoology",
+    "icon": "🦁",
+    "paperCount": 26
+  },
+  {
+    "id": 10,
+    "name": "English",
+    "slug": "english",
+    "description": "Department of English",
+    "icon": "📖",
+    "paperCount": 34
+  },
+  {
+    "id": 11,
+    "name": "Political Science",
+    "slug": "political-science",
+    "description": "Department of Political Science",
+    "icon": "🏛️",
+    "paperCount": 31
+  },
+  {
+    "id": 12,
+    "name": "Economics",
+    "slug": "economics",
+    "description": "Department of Economics",
+    "icon": "📊",
+    "paperCount": 37
+  },
+  {
+    "id": 13,
+    "name": "History",
+    "slug": "history",
+    "description": "Department of History",
+    "icon": "🏰",
+    "paperCount": 28
+  },
+  {
+    "id": 14,
+    "name": "Education",
+    "slug": "education",
+    "description": "Department of Education",
+    "icon": "🎓",
+    "paperCount": 25
+  }
+]

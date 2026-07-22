@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Computer Science - Data Structures",
+    "subject": "Data Structures",
+    "department": "computer-science",
+    "semester": 3,
+    "year": 2023,
+    "fileSize": "2.5 MB",
+    "downloadCount": 1240,
+    "uploadedDate": "2023-06-15",
+    "url": "https://example.com/papers/cs-ds-2023.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Mathematics - Calculus",
+    "subject": "Calculus",
+    "department": "mathematics",
+    "semester": 2,
+    "year": 2023,
+    "fileSize": "1.8 MB",
+    "downloadCount": 856,
+    "uploadedDate": "2023-05-20",
+    "url": "https://example.com/papers/math-calc-2023.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Physics - Mechanics",
+    "subject": "Mechanics",
+    "department": "physics",
+    "semester": 2,
+    "year": 2023,
+    "fileSize": "3.2 MB",
+    "downloadCount": 945,
+    "uploadedDate": "2023-06-01",
+    "url": "https://example.com/papers/physics-mech-2023.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Chemistry - Organic Chemistry",
+    "subject": "Organic Chemistry",
+    "department": "chemistry",
+    "semester": 3,
+    "year": 2023,
+    "fileSize": "2.1 MB",
+    "downloadCount": 678,
+    "uploadedDate": "2023-06-10",
+    "url": "https://example.com/papers/chem-org-2023.pdf"
+  },
+  {
+    "id": 5,
+    "title": "English - Literature",
+    "subject": "English Literature",
+    "department": "english",
+    "semester": 1,
+    "year": 2023,
+    "fileSize": "1.5 MB",
+    "downloadCount": 523,
+    "uploadedDate": "2023-05-25",
+    "url": "https://example.com/papers/eng-lit-2023.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Economics - Microeconomics",
+    "subject": "Microeconomics",
+    "department": "economics",
+    "semester": 2,
+    "year": 2023,
+    "fileSize": "2.3 MB",
+    "downloadCount": 712,
+    "uploadedDate": "2023-06-05",
+    "url": "https://example.com/papers/econ-micro-2023.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Botany - Plant Physiology",
+    "subject": "Plant Physiology",
+    "department": "botany",
+    "semester": 3,
+    "year": 2023,
+    "fileSize": "2.8 MB",
+    "downloadCount": 634,
+    "uploadedDate": "2023-06-12",
+    "url": "https://example.com/papers/botany-pp-2023.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Zoology - Animal Behavior",
+    "subject": "Animal Behavior",
+    "department": "zoology",
+    "semester": 2,
+    "year": 2023,
+    "fileSize": "1.9 MB",
+    "downloadCount": 589,
+    "uploadedDate": "2023-06-08",
+    "url": "https://example.com/papers/zoology-ab-2023.pdf"
+  }
+]
